@@ -1,5 +1,6 @@
 # social_computing2024
 # Researcher
+References: https://aclanthology.org/2023.findings-eacl.140.pdf
 Following are the details of various files and the models they are using :-
 
 ------------------- Intent Recognition --------------------
