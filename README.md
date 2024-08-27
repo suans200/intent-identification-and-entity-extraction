@@ -1,4 +1,4 @@
-# social_computing2024
+# Intent Identification and Entity Extraction
 # Researcher
 References: https://aclanthology.org/2023.findings-eacl.140.pdf
 Following are the details of various files and the models they are using :-
